@@ -2,6 +2,7 @@
 title: hello
 date: 2024-12-18 20:07:46
 tags:
+- hello
 ---
 # Hello!你好!
 这是我第一次建站  
