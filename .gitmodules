@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-mdui"]
+	path = themes/hexo-theme-mdui
+	url = https://github.com/Halyul/hexo-theme-mdui
