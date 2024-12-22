@@ -165,20 +165,17 @@ home_banner:
   # Home banner social links
   social_links:
     # Whether to enable
-    enable: false
+    enable: true
     # Social links style
     style: default # default, reverse, center
     # Social links
     links:
-      github:  # your GitHub URL
-      instagram: # your Instagram URL
-      zhihu:  # your ZhiHu URL
-      twitter:  # your twitter URL
-      email:  # your email
+      github: https://github.com/hyj120309
+      email: mail@hyj120309.top
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
-      weixin:  # your Wechat QRcode image URL
+      #weixin:  # your Wechat QRcode image URL
       # ...... # you can add more
 # HOME BANNER <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
@@ -190,8 +187,8 @@ navbar:
   auto_hide: false
   # Navbar background color
   color:
-    left: "#f78736" #left side 
-    right: "#367df7"  #right side
+    left: "#FFFFFF" #left side 
+    right: "#66CCFF"  #right side
     transparency: 35 #percent (10-99)
   # Navbar width (usually no need to modify)
   width:
@@ -205,6 +202,9 @@ navbar:
     Tags: #取名随意
       icon: fa-solid fa-tags #图标
       path: /tags/ #链接
+    Pan: 
+      icon: fa-light fa-cloud
+      path: pan.hyj120309.top
     # Archives: 
     #   path: /archives 
     #   icon: fa-regular fa-archive # can be empty
