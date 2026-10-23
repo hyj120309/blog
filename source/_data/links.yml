@@ -1,0 +1,8 @@
+- links_category: Normal
+  has_thumbnail: false
+  list:
+      - name: RyogiMutsuki
+        link: https://www.20260712.xyz
+        description: 黑夜给了我黑色的眼睛，我却用它来寻找星星
+        avatar: https://www.20260712.xyz/img/avatar.webp
+        # thumbnail: 预览图（has_thumbnail 为 true 时才需要）
